@@ -2,7 +2,8 @@
 Visit my website: https://forgenaudio.netlify.app/
 
 (this app is not signed by apple it contains no malware if you want to be sure you can run it through virustotal or Chatgpt)
-**A clean, modern audio studio for macOS)
+
+(It is a clean, modern audio studio for macOS)
 
 Wavforge is a macOS audio application designed to bring music playback, audio organisation and playlist management together in one focused workspace.
 
