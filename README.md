@@ -1,7 +1,7 @@
 # Wavforge 
 Visit my website: https://forgenaudio.netlify.app/
 
-(this app is not signed by apple it contains no malware if you want to be sure you can run it through virustotal or Chatgpt)
+(this app is not signed by apple it contains no malware if you want to be sure you can run it through virustotal or Chatgpt) (to allow the app to run open settings - privacy and security - allow 
 
 (It is a clean, modern audio studio for macOS)
 
